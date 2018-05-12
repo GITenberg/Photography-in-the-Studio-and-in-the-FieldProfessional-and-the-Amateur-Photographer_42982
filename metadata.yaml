@@ -1,0 +1,27 @@
+_repo: Photography-in-the-Studio-and-in-the-FieldProfessional-and-the-Amateur-Photographer_42982
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42982-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Estabrooke, Edward M.
+    gutenberg_agent_id: '41966'
+    url: http://www.gutenberg.org/2009/agents/41966
+description: ''
+gutenberg_bookshelf: Photography
+gutenberg_issued: '2013-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42982'
+  lccn: 09005398
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Photography'
+- !lcc 'TR'
+title: "Photography in the Studio and in the Field\r\nA Practical Manual Designed\
+  \ as a Companion Alike to the Professional and the Amateur Photographer"
+url: http://www.gutenberg.org/ebooks/42982
