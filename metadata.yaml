@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41966'
     url: http://www.gutenberg.org/2009/agents/41966
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42982#Photography-in-the-Studio-and-in-the-FieldProfessional-and-the-Amateur-Photographer
 gutenberg_bookshelf: Photography
 gutenberg_issued: '2013-06-18'
 gutenberg_type: Text
